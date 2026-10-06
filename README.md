@@ -12,7 +12,7 @@ A user patch for [KOReader](https://github.com/koreader/koreader).
    - macOS: `~/Library/Application Support/koreader/patches/`
 3. Restart KOReader.
 4. Check it is enabled `More tools > Patch Management > After setup`
-5. Change the sort by setting to "Author (last name)"
+5. Change the 'sort by' setting to "Author (last name)"
 
 Create the `patches` folder if it doesn't exist. For more details, see the [KOReader User Patches wiki](https://github.com/koreader/koreader/wiki/User-patches).
 
