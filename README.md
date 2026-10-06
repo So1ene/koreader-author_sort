@@ -3,8 +3,8 @@ A user patch for [KOReader](https://github.com/koreader/koreader).
 
 ## Installation
 
-1. Download the `.lua` patch file ([2-sort-by-author-lastname.lua](https://raw.githubusercontent.com/So1ene/koreader-author_sort/main/2-sort-by-author-lastname.lua)).
-2. Copy it into the `patches` folder inside your KOReader folder. Create the folder if it doesn't exist.
+1. Download the `.lua` patch file ([2-sort-by-author-lastname.lua](https://raw.githubusercontent.com/So1ene/koreader-author_sort/main/2-sort-by-author-lastname.lua)). Dont remove "2-" from the file name.
+2. Copy it into the `patches` folder inside your KOReader folder. Create the patches folder if it doesn't exist.
    - Kobo: `/mnt/onboard/.adds/koreader/patches/`
    - Kindle: `/mnt/us/koreader/patches/`
    - Android: `/sdcard/koreader/patches/`
